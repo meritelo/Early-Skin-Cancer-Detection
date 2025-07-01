@@ -744,15 +744,15 @@ SELECT
 FROM (
     SELECT 
             smoke,
-    		drink,
-   		    skin_cancer_history,
-			cancer_history,
-  		    grew,
-   		    changed,
-    		itch,
-   		    hurt,
-   		    bleed,
-			elevation,  
+    	    drink,
+   	    skin_cancer_history,
+	    cancer_history,
+  	    grew,
+   	    changed,
+    	     itch,
+   	     hurt,
+   	     bleed,
+	     elevation,  
         CASE 
             WHEN diagnostic IN ('BCC', 'ACK', 'SCC', 'MEL') THEN 'malignant'
             WHEN diagnostic IN ('NEV', 'SEK') THEN 'benign'

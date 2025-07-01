@@ -30,7 +30,7 @@ Some of the major results and insights will be presented below.
 
 ![image](https://github.com/user-attachments/assets/dc387478-e01b-435a-a3a1-47cf3084fe3c)
 
-- Even though smokers and drinkers are minority, they show alarmingly high malignancy rates with 95% drinkers and 97% smokers having malignant lesions. Ptients who both drink and smoke had a 100% malignancy rate.
+- Even though smokers and drinkers are minority, they show alarmingly high malignancy rates with 95% drinkers and 97% smokers having malignant lesions. Patients who both drink and smoke had a 100% malignancy rate.
 
 ![image](https://github.com/user-attachments/assets/9a74b5ea-3783-4219-8272-71056ed063b8)
 
@@ -62,7 +62,7 @@ This project demonstrates the power of SQL-driven data analysis in uncovering cr
 Kindly explore the attached project files for more insights.
 
 ## FUTURE WORK
-- Using python and machine learning to produce a predictive model using features like age, lesion sizes and symptoms, skintype and lifestyle factors to predict skin cancer.
+- Using python and machine learning to produce a predictive model using features like age, lesion sizes and symptoms, skin type and lifestyle factors to predict skin cancer.
 
 
 
